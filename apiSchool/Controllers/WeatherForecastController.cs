@@ -3,7 +3,7 @@ using Microsoft.Data.SqlClient;
 using SchoolApi.Data;
 using SchoolApi.Model;
 
-namespace apiSchool.Controllers
+namespace SchoolApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]

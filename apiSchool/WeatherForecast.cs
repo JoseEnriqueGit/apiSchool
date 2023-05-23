@@ -1,4 +1,4 @@
-namespace apiSchool
+namespace SchoolApi
 {
     public class WeatherForecast
     {
